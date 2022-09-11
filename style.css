@@ -1,0 +1,15 @@
+table, td{
+    border: 1px solid black;
+}
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.one{
+    background-color: aqua;
+}
+.one:hover{
+    background-color: aquamarine;
+}
